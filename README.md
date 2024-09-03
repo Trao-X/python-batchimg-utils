@@ -6,5 +6,5 @@ Simply, install all the dependencies and when you run the scripts, it will autom
 
 ## Dependencies
 These Python scripts need the following packages:
-* * pillow (for `convert_images.py`)
+* pillow (for `convert_images.py`)
 * colorama
