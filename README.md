@@ -5,4 +5,4 @@ A repository containing useful tools for editing batch images.
 Simply, install all the dependencies and when you run the scripts, it will automatically ask you for the options.
 
 ## Dependencies
-To install the required dependencies open a terminal in the directory and run ```pip install -r requirements.txt```
+To install the required dependencies, open a terminal in the root directory and run ```pip install -r requirements.txt```
