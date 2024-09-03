@@ -5,6 +5,4 @@ A repository containing useful tools for editing batch images.
 Simply, install all the dependencies and when you run the scripts, it will automatically ask you for the options.
 
 ## Dependencies
-These Python scripts need the following packages:
-* pillow (for `convert_images.py`)
-* colorama
+To install the required dependencies open a terminal in the directory and run ```pip install -r requirements.txt```
